@@ -164,7 +164,7 @@ public class MainApp {
                     // CRUD Usuario
                     int opUsuario;
                     do {
-                        System.out.println("\n--- CRUD DE USUÁRIOS ---");
+                        System.out.println("\n--- CRUDD DE USUÁRIOS ---");
                         System.out.println("1. Cadastrar");
                         System.out.println("2. Listar");
                         System.out.println("3. Buscar por ID");
